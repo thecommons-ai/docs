@@ -1,6 +1,6 @@
 # Habitat Evolution: Climate Risk Integration Milestone
 
-**Date: March 21, 2025**
+**Date: March 20, 2025**
 **Updated: March 21, 2025 - Dynamic Domain Detection Implementation**
 
 ## Abstract
